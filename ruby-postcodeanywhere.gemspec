@@ -19,7 +19,6 @@ Gem::Specification.new do |s|
     "Gemfile.lock",
     "LICENSE.txt",
     "Postcode Anywhere.tmproj",
-    "README.rdoc",
     "Rakefile",
     "VERSION",
     "lib/ruby-postcodeanywhere.rb",
