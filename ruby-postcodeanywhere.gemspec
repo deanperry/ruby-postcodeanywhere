@@ -12,10 +12,6 @@ Gem::Specification.new do |s|
   s.date = %q{2011-08-04}
   s.description = %q{Gem to provide basic access to PostcodeAnywhere services}
   s.email = %q{chris@norman.me}
-  s.extra_rdoc_files = [
-    "LICENSE.txt",
-    "README.rdoc"
-  ]
   s.files = [
     ".document",
     ".rspec",
